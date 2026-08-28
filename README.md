@@ -1,5 +1,12 @@
 # Customer-Shopping-Behavior-Analysis
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-02569B?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Project Status](https://img.shields.io/badge/PROJECT%20STATUS-COMPLETED-brightgreen?style=for-the-badge)
 ## Project Overview
 
 This project analyzes customer shopping behavior to understand purchasing patterns, customer segments, product performance, discounts, subscriptions, shipping preferences, and revenue contribution.
