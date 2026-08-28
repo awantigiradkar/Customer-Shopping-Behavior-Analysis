@@ -6,6 +6,8 @@ This project analyzes customer shopping behavior to understand purchasing patter
 
 The project uses **Python, SQL, and Power BI** to transform raw customer transaction data into meaningful business insights and an interactive dashboard.
 
+---
+
 ## Objectives
 
 * Understand customer purchasing behavior
@@ -16,6 +18,8 @@ The project uses **Python, SQL, and Power BI** to transform raw customer transac
 * Understand the impact of discounts and shipping methods
 * Build an interactive Power BI dashboard for business reporting
 
+---
+
 ## Tools & Technologies
 
 * **Python** – Data cleaning, transformation and exploratory analysis
@@ -24,6 +28,8 @@ The project uses **Python, SQL, and Power BI** to transform raw customer transac
 * **Power BI** – Interactive dashboard and visualization
 * **Jupyter Notebook** – Analysis workflow
 * **CSV** – Source dataset
+
+---
 
 ## Dataset
 
@@ -42,6 +48,8 @@ The dataset contains **3,900 customer purchase records** with 18 attributes cove
 * Previous purchases
 * Payment methods
 * Purchase frequency
+
+---
 
 ## Project Workflow
 
@@ -100,6 +108,8 @@ SQL concepts used include:
 * `ROW_NUMBER()`
 * Filtering and sorting
 
+---
+
 ## Key Insights
 
 ### Revenue
@@ -155,6 +165,8 @@ Among Standard and Express shipping:
 
 Express-shipping customers had a slightly higher average purchase amount.
 
+---
+
 ## Power BI Dashboard
 
 The analysis was converted into an interactive Power BI dashboard to provide a visual overview of:
@@ -172,6 +184,8 @@ The analysis was converted into an interactive Power BI dashboard to provide a v
 
 The dashboard allows users to explore the data interactively and identify important customer and product trends.
 
+---
+
 ## Business Value
 
 This analysis can help businesses:
@@ -185,6 +199,8 @@ This analysis can help businesses:
 * Identify products receiving strong customer ratings
 * Make data-driven decisions around customer engagement
 
+---
+
 ## Project Structure
 
 ```text
@@ -197,8 +213,18 @@ Customer-Shopping-Behavior-Analysis/
 └── README.md
 ```
 
+---
+
 ## Conclusion
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw customer transaction data and progressing through **Python-based data preparation, SQL business analysis, and Power BI visualization**.
+
+---
+## Contact & Feedback
+If you have any questions, suggestions, or want to discuss the project findings:
+
+- Author: Awanti Giradkar
+- LinkedIn: https://www.linkedin.com/in/awantigiradkar/
+- Email: awantigiradkar168@gmail.com
 
 The project focuses not only on analyzing data but also on translating customer behavior into actionable business insights.
