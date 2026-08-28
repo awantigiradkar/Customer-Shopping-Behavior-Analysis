@@ -12,6 +12,7 @@
 This project analyzes customer shopping behavior to understand purchasing patterns, customer segments, product performance, discounts, subscriptions, shipping preferences, and revenue contribution.
 
 The project uses **Python, SQL, and Power BI** to transform raw customer transaction data into meaningful business insights and an interactive dashboard.
+![Power BI](Images/customer_behavior_dashboard_page-0001.jpg)
 
 ---
 
